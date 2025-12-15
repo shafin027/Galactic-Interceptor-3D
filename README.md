@@ -1,6 +1,6 @@
 # 🚀 Galactic Interceptor 3D: Elite Edition
 
-> **"The last line of defense between order and total entropy."**
+> **"The last line of defense between order and total destructioin."**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![OpenGL](https://img.shields.io/badge/OpenGL-PyOpenGL-green?style=flat&logo=opengl)
